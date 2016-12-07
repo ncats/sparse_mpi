@@ -68,7 +68,8 @@ main (int argc, char *argv[])
                          contrib->data[len].value);
               fputc ('\n', outfp);
               //printf ("%d: (%d,%d)\n", rank, next->v->id, n->v->id);
-              
+
+              free (contrib);
               ++total;
             }
         }
