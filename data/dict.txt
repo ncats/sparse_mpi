@@ -1,0 +1,1073 @@
+0:AA Length
+1:AA_A
+2:AA_C
+3:AA_D
+4:AA_E
+5:AA_F
+6:AA_G
+7:AA_H
+8:AA_I
+9:AA_K
+10:AA_L
+11:AA_M
+12:AA_N
+13:AA_P
+14:AA_Q
+15:AA_R
+16:AA_S
+17:AA_T
+18:AA_V
+19:AA_W
+20:AA_Y
+21:Antibody Count
+22:Collection
+23:Compartment Evidence
+24:Compartment GO Term
+25:Compartment Type
+26:DTO Protein Class (0)
+27:DTO Protein Class (1)
+28:DTO Protein Class (2)
+29:DTO Protein Class (3)
+30:DTO Protein Class (4)
+31:Data Source
+32:GO Component
+33:GO Function
+34:GO Process
+35:GTEx Tissue
+36:GWAS Trait
+37:Grant Activity
+38:Grant Application
+39:Grant Count
+40:Grant Funding IC
+41:Grant Total Cost
+42:HPA Protein Tissue
+43:HPA RNA Tissue
+44:HPM Tissue
+45:IDG Disease
+46:IDG GeneRIF
+47:IDG Ligand
+48:IDG Tissue
+49:IDG Tools
+50:IMPC Mice Produced
+51:IMPC Term
+52:Jensen Score
+53:Jensen-KB Tissue
+54:Knowledge Availability
+55:Ligand Activity
+56:Link/ix.idg.models.Disease
+57:Link/ix.idg.models.Ligand
+58:Log Novelty
+59:MGI Term
+60:MLP Assay Type
+61:Monoclonal Count
+62:PANTHER Protein Class (0)
+63:PANTHER Protein Class (1)
+64:PANTHER Protein Class (2)
+65:PANTHER Protein Class (3)
+66:Patent Count
+67:Pharmalogical Action
+68:Predicate/Protein-Protein Interactions
+69:Publications
+70:R01 Grant Count
+71:TechDev Grant
+72:TechDev PI
+73:@Compartment Evidence/PSORT 32/32
+74:@Compartment Evidence/UniProtKB CURATED
+75:@Compartment Evidence/UniProtKB-KW IEA
+76:@Compartment GO Term/Cell
+77:@Compartment GO Term/Cell part
+78:@Compartment GO Term/Cell periphery
+79:@Compartment GO Term/Integral component of membrane
+80:@Compartment GO Term/Intrinsic component of membrane
+81:@Compartment GO Term/Membrane
+82:@Compartment GO Term/Membrane part
+83:@Compartment GO Term/Plasma membrane
+84:@Compartment GO Term/cellular_component
+85:@Compartment Type/JensenLab Knowledge
+86:@Compartment Type/JensenLab Prediction
+87:@DTO Protein Class (0)/GPCR
+88:@DTO Protein Class (1)/Class C metabotropic glutamate-pheromone
+89:@DTO Protein Class (2)/GABA-B receptor
+90:@Data Source/Consensus
+91:@Data Source/GTEx
+92:@Data Source/HPA RNA
+93:@Data Source/HPM Gene
+94:@Data Source/HPM Protein
+95:@Data Source/JensenLab Knowledge UniProtKB-RC
+96:@Data Source/JensenLab Text Mining
+97:@Data Source/OMIM
+98:@Data Source/TCRDv3.0.7
+99:@Data Source/UniProt
+100:@GO Component/integral component of membrane
+101:@GO Component/plasma membrane
+102:@GO Function/G-protein coupled GABA receptor activity
+103:@GTEx Tissue/Adipose - Subcutaneous
+104:@GTEx Tissue/Adipose - Visceral (Omentum)
+105:@GTEx Tissue/Adrenal Gland
+106:@GTEx Tissue/Artery - Aorta
+107:@GTEx Tissue/Artery - Coronary
+108:@GTEx Tissue/Artery - Tibial
+109:@GTEx Tissue/Bladder
+110:@GTEx Tissue/Brain - Amygdala
+111:@GTEx Tissue/Brain - Anterior cingulate cortex (BA24)
+112:@GTEx Tissue/Brain - Caudate (basal ganglia)
+113:@GTEx Tissue/Brain - Cerebellar Hemisphere
+114:@GTEx Tissue/Brain - Cerebellum
+115:@GTEx Tissue/Brain - Cortex
+116:@GTEx Tissue/Brain - Frontal Cortex (BA9)
+117:@GTEx Tissue/Brain - Hippocampus
+118:@GTEx Tissue/Brain - Hypothalamus
+119:@GTEx Tissue/Brain - Nucleus accumbens (basal ganglia)
+120:@GTEx Tissue/Brain - Putamen (basal ganglia)
+121:@GTEx Tissue/Brain - Spinal cord (cervical c-1)
+122:@GTEx Tissue/Brain - Substantia nigra
+123:@GTEx Tissue/Breast - Mammary Tissue
+124:@GTEx Tissue/Cells - EBV-transformed lymphocytes
+125:@GTEx Tissue/Cells - Transformed fibroblasts
+126:@GTEx Tissue/Cervix - Ectocervix
+127:@GTEx Tissue/Cervix - Endocervix
+128:@GTEx Tissue/Colon - Sigmoid
+129:@GTEx Tissue/Colon - Transverse
+130:@GTEx Tissue/Esophagus - Gastroesophageal Junction
+131:@GTEx Tissue/Esophagus - Mucosa
+132:@GTEx Tissue/Esophagus - Muscularis
+133:@GTEx Tissue/Fallopian Tube
+134:@GTEx Tissue/Heart - Atrial Appendage
+135:@GTEx Tissue/Heart - Left Ventricle
+136:@GTEx Tissue/Kidney - Cortex
+137:@GTEx Tissue/Liver
+138:@GTEx Tissue/Lung
+139:@GTEx Tissue/Minor Salivary Gland
+140:@GTEx Tissue/Muscle - Skeletal
+141:@GTEx Tissue/Nerve - Tibial
+142:@GTEx Tissue/Ovary
+143:@GTEx Tissue/Pancreas
+144:@GTEx Tissue/Pituitary
+145:@GTEx Tissue/Prostate
+146:@GTEx Tissue/Skin - Not Sun Exposed (Suprapubic)
+147:@GTEx Tissue/Skin - Sun Exposed (Lower leg)
+148:@GTEx Tissue/Small Intestine - Terminal Ileum
+149:@GTEx Tissue/Spleen
+150:@GTEx Tissue/Stomach
+151:@GTEx Tissue/Testis
+152:@GTEx Tissue/Thyroid
+153:@GTEx Tissue/Uterus
+154:@GTEx Tissue/Vagina
+155:@GTEx Tissue/Whole Blood
+156:@HPA RNA Tissue/fallopian tube
+157:@HPA RNA Tissue/testis
+158:@HPM Tissue/Adult Heart
+159:@IDG Disease/Autoimmune hemolytic anemia
+160:@IDG Disease/Pancytopenia
+161:@IDG Tissue/Blood and immune system
+162:@IDG Tissue/Cardiovascular System
+163:@IDG Tissue/Digestive Tract
+164:@IDG Tissue/Endocrine System
+165:@IDG Tissue/Female tissues
+166:@IDG Tissue/Liver and Pancreas
+167:@IDG Tissue/Male tissues
+168:@IDG Tissue/Nervous System
+169:@IDG Tissue/Respiratory system
+170:@IDG Tissue/Skin and soft tissues
+171:@IDG Tissue/Urinary Tract
+172:@IDG Tools/Antibodies
+173:@IMPC Mice Produced/YES
+174:@Jensen-KB Tissue/Brain
+175:@TechDev Grant/1U01MH104974-01
+176:@TechDev PI/Bryan Roth
+177:@Compartment Evidence/Reactome TAS
+178:@Compartment Evidence/UniProtKB ISS
+179:@Compartment Evidence/UniProtKB NAS
+180:@Compartment Evidence/YLoc 100.0%
+181:@Compartment GO Term/AMPA glutamate receptor complex
+182:@Compartment GO Term/Bounding membrane of organelle
+183:@Compartment GO Term/Calcium channel complex
+184:@Compartment GO Term/Cation channel complex
+185:@Compartment GO Term/Cytoplasm
+186:@Compartment GO Term/Cytoplasmic part
+187:@Compartment GO Term/Cytoplasmic vesicle
+188:@Compartment GO Term/Cytoplasmic vesicle membrane
+189:@Compartment GO Term/Cytoplasmic vesicle part
+190:@Compartment GO Term/Endocytic vesicle
+191:@Compartment GO Term/Endocytic vesicle membrane
+192:@Compartment GO Term/GO:0098796
+193:@Compartment GO Term/Integral component of plasma membrane
+194:@Compartment GO Term/Intracellular
+195:@Compartment GO Term/Intracellular membrane-bounded organelle
+196:@Compartment GO Term/Intracellular organelle
+197:@Compartment GO Term/Intracellular organelle part
+198:@Compartment GO Term/Intracellular part
+199:@Compartment GO Term/Intrinsic component of plasma membrane
+200:@Compartment GO Term/Ion channel complex
+201:@Compartment GO Term/Ionotropic glutamate receptor complex
+202:@Compartment GO Term/Macromolecular complex
+203:@Compartment GO Term/Organelle
+204:@Compartment GO Term/Organelle membrane
+205:@Compartment GO Term/Organelle part
+206:@Compartment GO Term/Plasma membrane part
+207:@Compartment GO Term/Plasma membrane protein complex
+208:@Compartment GO Term/Plasma membrane receptor complex
+209:@Compartment GO Term/Protein complex
+210:@Compartment GO Term/Receptor complex
+211:@Compartment GO Term/Transmembrane transporter complex
+212:@Compartment GO Term/Transporter complex
+213:@Compartment GO Term/Vesicle
+214:@Compartment GO Term/Vesicle membrane
+215:@Compartment GO Term/Whole membrane
+216:@Compartment GO Term/cytoplasmic, membrane-bounded vesicle
+217:@Compartment GO Term/membrane-bounded organelle
+218:@Compartment GO Term/membrane-bounded vesicle
+219:@Compartment GO Term/voltage-gated calcium channel complex
+220:@DTO Protein Class (0)/Ion channel
+221:@DTO Protein Class (1)/Calcium channel auxiliary subunit 1-8 (cca) family
+222:@Data Source/GWAS Catalog
+223:@Data Source/JAX/MGI Human Ortholog Phenotype
+224:@GO Component/AMPA glutamate receptor complex
+225:@GO Component/endocytic vesicle membrane
+226:@GO Component/voltage-gated calcium channel complex
+227:@GO Function/channel regulator activity
+228:@GO Function/voltage-gated calcium channel activity
+229:@GO Process/calcium ion transmembrane transport
+230:@GO Process/calcium ion transport
+231:@GO Process/regulation of alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate selective glutamate receptor activity
+232:@GO Process/synaptic transmission
+233:@GO Process/transmission of nerve impulse
+234:@GWAS Trait/Diisocyanate-induced asthma
+235:@HPA RNA Tissue/adrenal gland
+236:@HPA RNA Tissue/cerebral cortex
+237:@HPM Tissue/Adult Frontal Cortex
+238:@HPM Tissue/Adult Liver
+239:@HPM Tissue/B Cells
+240:@HPM Tissue/CD4 Cells
+241:@HPM Tissue/Fetal Brain
+242:@HPM Tissue/Monocytes
+243:@IDG Disease/Childhood absence epilepsy
+244:@IDG Disease/Idiopathic generalized epilepsy
+245:@IDG Disease/Juvenile absence epilepsy
+246:@IDG Disease/Spinocerebellar ataxia type 2
+247:@IDG Tools/Phenotypes
+248:@Jensen-KB Tissue/Cerebellum
+249:@Jensen-KB Tissue/Cerebral cortex
+250:@MGI Term/behavior-neurological phenotype
+251:@MGI Term/growth-size-body region phenotype
+252:@MGI Term/homeostasis-metabolism phenotype
+253:@MGI Term/mortality-aging
+254:@MGI Term/nervous system phenotype
+255:@MGI Term/normal phenotype
+256:@PANTHER Protein Class (0)/transporter
+257:@PANTHER Protein Class (1)/ion channel
+258:@PANTHER Protein Class (2)/voltage-gated ion channel
+259:@PANTHER Protein Class (3)/voltage-gated calcium channel
+260:@TechDev Grant/1U01MH105027-01
+261:@TechDev Grant/5U01MH104984-03
+262:@TechDev PI/Jing-Ruey Yeh
+263:@TechDev PI/Susumu Tomita
+264:@Collection/Eligible non-olfactory GPCRs
+265:@Compartment Evidence/UniProtKB IDA
+266:@Compartment GO Term/Endomembrane system
+267:@Compartment GO Term/Endoplasmic reticulum
+268:@DTO Protein Class (1)/Potassium channel family
+269:@DTO Protein Class (2)/G subfamily
+270:@DTO Protein Class (3)/Kv6.3-KCNG3 sub-subfamily
+271:@Data Source/DrugCentral Indication
+272:@GO Component/endoplasmic reticulum
+273:@GO Component/voltage-gated potassium channel complex
+274:@GO Function/delayed rectifier potassium channel activity
+275:@GO Process/potassium ion transmembrane transport
+276:@GO Process/protein homooligomerization
+277:@GWAS Trait/Body mass index
+278:@HPM Tissue/Adult Colon
+279:@HPM Tissue/Adult Gallbladder
+280:@HPM Tissue/Adult Prostate
+281:@HPM Tissue/Adult Rectum
+282:@HPM Tissue/Adult Urinary Bladder
+283:@IDG Disease/Eaton-Lambert Syndrome
+284:@IDG Disease/Lambert-Eaton Myasthenic Syndrome
+285:@IDG Disease/Multiple Sclerosis
+286:@IDG Ligand/amifampridine
+287:@IDG Ligand/fampridine
+288:@IDG Ligand/guanidine
+289:@PANTHER Protein Class (3)/voltage-gated potassium channel
+290:@Pharmalogical Action/BLOCKER
+291:@DTO Protein Class (0)/Kinase
+292:@DTO Protein Class (1)/Protein kinase
+293:@DTO Protein Class (2)/CK1 group
+294:@DTO Protein Class (3)/CK1 family
+295:@GO Component/cytoplasm
+296:@GO Function/ATP binding
+297:@GO Function/protein serine-threonine kinase activity
+298:@GO Process/Wnt signaling pathway
+299:@GO Process/endocytosis
+300:@GO Process/peptidyl-serine phosphorylation
+301:@GO Process/regulation of cell shape
+302:@Grant Activity/R21
+303:@Grant Application/5R21AI080222-02
+304:@Grant Funding IC/NIAID
+305:@HPA RNA Tissue/adipose tissue
+306:@HPA RNA Tissue/appendix
+307:@HPA RNA Tissue/bone marrow
+308:@HPA RNA Tissue/colon
+309:@HPA RNA Tissue/duodenum
+310:@HPA RNA Tissue/endometrium
+311:@HPA RNA Tissue/esophagus
+312:@HPA RNA Tissue/gallbladder
+313:@HPA RNA Tissue/heart muscle
+314:@HPA RNA Tissue/kidney
+315:@HPA RNA Tissue/liver
+316:@HPA RNA Tissue/lung
+317:@HPA RNA Tissue/lymph node
+318:@HPA RNA Tissue/ovary
+319:@HPA RNA Tissue/pancreas
+320:@HPA RNA Tissue/placenta
+321:@HPA RNA Tissue/prostate
+322:@HPA RNA Tissue/rectum
+323:@HPA RNA Tissue/salivary gland
+324:@HPA RNA Tissue/skin
+325:@HPA RNA Tissue/small intestine
+326:@HPA RNA Tissue/smooth muscle
+327:@HPA RNA Tissue/spleen
+328:@HPA RNA Tissue/stomach
+329:@HPA RNA Tissue/thyroid gland
+330:@HPA RNA Tissue/tonsil
+331:@HPA RNA Tissue/urinary bladder
+332:@HPM Tissue/Adult Adrenal
+333:@HPM Tissue/Adult Esophagus
+334:@HPM Tissue/Adult Kidney
+335:@HPM Tissue/Adult Lung
+336:@HPM Tissue/Adult Ovary
+337:@HPM Tissue/Adult Pancreas
+338:@HPM Tissue/Adult Retina
+339:@HPM Tissue/Adult Spinal Cord
+340:@HPM Tissue/Adult Testis
+341:@HPM Tissue/CD8 Cells
+342:@HPM Tissue/Fetal Gut
+343:@HPM Tissue/Fetal Heart
+344:@HPM Tissue/Fetal Liver
+345:@HPM Tissue/Fetal Ovary
+346:@HPM Tissue/Fetal Testis
+347:@HPM Tissue/NK Cells
+348:@HPM Tissue/Placenta
+349:@HPM Tissue/Platelets
+350:@IDG Disease/Ohtahara syndrome
+351:@Jensen-KB Tissue/Muscle
+352:@MLP Assay Type/other
+353:@PANTHER Protein Class (0)/transferase
+354:@PANTHER Protein Class (1)/kinase
+355:@PANTHER Protein Class (2)/protein kinase
+356:@PANTHER Protein Class (3)/non-receptor serine/threonine protein kinase
+357:@TechDev Grant/1U01MH104999-01
+358:@TechDev PI/Gary Johnson
+359:@DTO Protein Class (1)/Class A rhodopsin like
+360:@Data Source/JensenLab Experiment DistiLD
+361:@GO Component/integral component of plasma membrane
+362:@GO Function/G-protein coupled receptor activity
+363:@GO Process/adenylate cyclase-activating G-protein coupled receptor signaling pathway
+364:@GWAS Trait/Obesity-related traits
+365:@GWAS Trait/Periodontitis
+366:@IDG Disease/Osteoporosis
+367:@PANTHER Protein Class (0)/receptor
+368:@PANTHER Protein Class (1)/G-protein coupled receptor
+369:@Compartment GO Term/Cell junction
+370:@Compartment GO Term/Excitatory synapse
+371:@Compartment GO Term/Intracellular non-membrane-bounded organelle
+372:@Compartment GO Term/Membrane region
+373:@Compartment GO Term/Plasma membrane region
+374:@Compartment GO Term/Postsynapse
+375:@Compartment GO Term/Postsynaptic density
+376:@Compartment GO Term/Postsynaptic membrane
+377:@Compartment GO Term/Postsynaptic specialization
+378:@Compartment GO Term/Synapse
+379:@Compartment GO Term/Synapse part
+380:@Compartment GO Term/Synaptic membrane
+381:@Compartment GO Term/non-membrane-bounded organelle
+382:@GO Component/cell junction
+383:@GO Component/postsynaptic density
+384:@GO Component/postsynaptic membrane
+385:@GO Function/ion transmembrane transporter activity
+386:@GO Process/transport
+387:@IDG Disease/Cognitive disorder
+388:@Jensen-KB Tissue/Thalamus
+389:@Compartment Evidence/ProtInc TAS
+390:@DTO Protein Class (2)/Purinoceptor
+391:@GO Function/G-protein coupled amine receptor activity
+392:@GO Process/G-protein coupled receptor signaling pathway
+393:@GO Process/positive regulation of adenylate cyclase activity involved in G-protein coupled receptor signaling pathway
+394:@GO Process/sensory perception of chemical stimulus
+395:@IDG Ligand/CHEMBL3297809
+396:@IDG Ligand/CHEMBL3297810
+397:@IDG Ligand/CHEMBL3297811
+398:@IDG Ligand/CHEMBL3298233
+399:@IDG Ligand/CHEMBL3298234
+400:@IDG Ligand/CHEMBL3299119
+401:@IDG Ligand/CHEMBL3299120
+402:@IDG Ligand/CHEMBL3299121
+403:@IDG Ligand/CHEMBL3299122
+404:@IDG Ligand/CHEMBL3299123
+405:@IDG Ligand/CHEMBL3299124
+406:@Ligand Activity/EC50
+407:@IDG Disease/Renal oncocytoma
+408:@IDG Disease/Uterine fibroid
+409:@DTO Protein Class (2)/CMGC group
+410:@DTO Protein Class (3)/CDK family
+411:@DTO Protein Class (4)/TAIRE subfamily
+412:@GO Function/cyclin-dependent protein serine-threonine kinase activity
+413:@GO Function/protein kinase activity
+414:@GO Process/protein phosphorylation
+415:@HPA RNA Tissue/skeletal muscle
+416:@IDG Disease/Acquired metabolic disease
+417:@IDG Ligand/CHEMBL296468
+418:@IDG Ligand/CHEMBL574738
+419:@Jensen-KB Tissue/Cervical carcinoma cell
+420:@Jensen-KB Tissue/T-cell chronic lymphocytic leukemia cell
+421:@Jensen-KB Tissue/Testis
+422:@Jensen-KB Tissue/Trachea
+423:@Ligand Activity/Kd
+424:@PANTHER Protein Class (3)/non-receptor tyrosine protein kinase
+425:@Compartment Evidence/GO_Central IBA
+426:@DTO Protein Class (2)/Mas proto-oncogene and Mas-related (MRGs) receptor
+427:@Collection/My collection
+428:@Compartment Evidence/HPA IDA
+429:@Compartment Evidence/ParkinsonsUK-UCL IMP
+430:@Compartment Evidence/UniProtKB-SubCell IEA
+431:@Compartment GO Term/Autophagosome
+432:@Compartment GO Term/Cytosol
+433:@Compartment GO Term/Endoplasmic reticulum membrane
+434:@Compartment GO Term/Endoplasmic reticulum part
+435:@Compartment GO Term/Intracellular organelle lumen
+436:@Compartment GO Term/Nuclear lumen
+437:@Compartment GO Term/Nuclear outer membrane-endoplasmic reticulum membrane network
+438:@Compartment GO Term/Nuclear part
+439:@Compartment GO Term/Nucleoplasm
+440:@Compartment GO Term/Nucleus
+441:@Compartment GO Term/Organelle lumen
+442:@Compartment GO Term/Vacuole
+443:@Compartment GO Term/membrane-enclosed lumen
+444:@DTO Protein Class (1)/Non-protein kinase
+445:@DTO Protein Class (2)/Lipid kinase
+446:@GO Component/autophagosome
+447:@GO Component/cytosol
+448:@GO Component/endoplasmic reticulum membrane
+449:@GO Component/nucleoplasm
+450:@GO Function/1-phosphatidylinositol-4-phosphate 5-kinase activity
+451:@GO Function/1-phosphatidylinositol-5-phosphate 4-kinase activity
+452:@GO Function/receptor signaling protein activity
+453:@GO Process/cell surface receptor signaling pathway
+454:@GO Process/intracellular signal transduction
+455:@GO Process/phosphatidylinositol biosynthetic process
+456:@GO Process/phosphatidylinositol phosphorylation
+457:@GO Process/phospholipid metabolic process
+458:@GO Process/positive regulation of autophagosome assembly
+459:@GO Process/regulation of autophagy
+460:@GO Process/small molecule metabolic process
+461:@GWAS Trait/Height
+462:@Grant Activity/R01
+463:@Grant Application/1R01CA197329-01
+464:@Grant Funding IC/NCI
+465:@IDG Disease/Idiopathic Pulmonary Fibrosis
+466:@IDG Disease/Non-Small Cell Lung Cancer
+467:@IDG Ligand/CHEMBL603469
+468:@IDG Ligand/nintedanib
+469:@Jensen-KB Tissue/Lung
+470:@MGI Term/adipose tissue phenotype
+471:@MGI Term/embryogenesis phenotype
+472:@MGI Term/limbs-digits-tail phenotype
+473:@MGI Term/skeleton phenotype
+474:@MGI Term/tumorigenesis
+475:@DTO Protein Class (3)/VRK family
+476:@GO Component/nucleus
+477:@GO Function/protein phosphatase binding
+478:@GO Process/negative regulation of ERK1 and ERK2 cascade
+479:@GO Process/positive regulation of phosphoprotein phosphatase activity
+480:@Grant Application/1R01GM112781-01
+481:@Grant Funding IC/NIGMS
+482:@IDG Disease/Vaccinia
+483:@Jensen-KB Tissue/Liver
+484:@Jensen-KB Tissue/Skin
+485:@Compartment GO Term/Taste receptor complex
+486:@Compartment Type/JensenLab Text Mining
+487:@DTO Protein Class (1)/Calcium homeostasis modulator calcium channel (calhm-c) family
+488:@GO Function/cation channel activity
+489:@GO Process/cation transmembrane transport
+490:@GO Process/ion transmembrane transport
+491:@Grant Activity/R03
+492:@Grant Application/1R01DC012538-01A1
+493:@Grant Application/1R03DC014328-01
+494:@Grant Application/5R01DC012538-02
+495:@Grant Application/5R01DC012538-03
+496:@Grant Funding IC/NIDCD
+497:@Compartment GO Term/Cell leading edge
+498:@DTO Protein Class (2)/AGC group
+499:@DTO Protein Class (3)/DMPK family
+500:@DTO Protein Class (4)/GEK subfamily
+501:@Data Source/JensenLab Experiment COSMIC
+502:@GO Component/cell leading edge
+503:@GO Function/magnesium ion binding
+504:@GO Process/actin cytoskeleton reorganization
+505:@IDG Disease/Carcinoma
+506:@IDG Disease/Multiple endocrine neoplasia type 1
+507:@DTO Protein Class (2)/Dopamine receptor
+508:@Data Source/HPA Protein
+509:@HPA Protein Tissue/adrenal gland - glandular cells
+510:@HPA Protein Tissue/appendix - glandular cells
+511:@HPA Protein Tissue/appendix - lymphoid tissue
+512:@HPA Protein Tissue/bone marrow - hematopoietic cells
+513:@HPA Protein Tissue/breast - adipocytes
+514:@HPA Protein Tissue/breast - glandular cells
+515:@HPA Protein Tissue/breast - myoepithelial cells
+516:@HPA Protein Tissue/bronchus - respiratory epithelial cells
+517:@HPA Protein Tissue/cerebellum - Purkinje cells
+518:@HPA Protein Tissue/cerebral cortex - endothelial cells
+519:@HPA Protein Tissue/cerebral cortex - glial cells
+520:@HPA Protein Tissue/cerebral cortex - neuronal cells
+521:@HPA Protein Tissue/cerebral cortex - neuropil
+522:@HPA Protein Tissue/cervix, uterine - glandular cells
+523:@HPA Protein Tissue/cervix, uterine - squamous epithelial cells
+524:@HPA Protein Tissue/colon - endothelial cells
+525:@HPA Protein Tissue/colon - glandular cells
+526:@HPA Protein Tissue/colon - peripheral nerve/ganglion
+527:@HPA Protein Tissue/duodenum - glandular cells
+528:@HPA Protein Tissue/endometrium - cells in endometrial stroma
+529:@HPA Protein Tissue/endometrium - glandular cells
+530:@HPA Protein Tissue/epididymis - glandular cells
+531:@HPA Protein Tissue/esophagus - squamous epithelial cells
+532:@HPA Protein Tissue/fallopian tube - glandular cells
+533:@HPA Protein Tissue/gallbladder - glandular cells
+534:@HPA Protein Tissue/heart muscle - myocytes
+535:@HPA Protein Tissue/hippocampus - glial cells
+536:@HPA Protein Tissue/hippocampus - neuronal cells
+537:@HPA Protein Tissue/kidney - cells in glomeruli
+538:@HPA Protein Tissue/kidney - cells in tubules
+539:@HPA Protein Tissue/lateral ventricle - glial cells
+540:@HPA Protein Tissue/liver - bile duct cells
+541:@HPA Protein Tissue/lung - macrophages
+542:@HPA Protein Tissue/lung - pneumocytes
+543:@HPA Protein Tissue/lymph node - germinal center cells
+544:@HPA Protein Tissue/lymph node - non-germinal center cells
+545:@HPA Protein Tissue/nasopharynx - respiratory epithelial cells
+546:@HPA Protein Tissue/oral mucosa - squamous epithelial cells
+547:@HPA Protein Tissue/ovary - ovarian stroma cells
+548:@HPA Protein Tissue/pancreas - exocrine glandular cells
+549:@HPA Protein Tissue/pancreas - islets of Langerhans
+550:@HPA Protein Tissue/placenta - decidual cells
+551:@HPA Protein Tissue/placenta - trophoblastic cells
+552:@HPA Protein Tissue/prostate - glandular cells
+553:@HPA Protein Tissue/rectum - glandular cells
+554:@HPA Protein Tissue/salivary gland - glandular cells
+555:@HPA Protein Tissue/seminal vesicle - glandular cells
+556:@HPA Protein Tissue/skeletal muscle - myocytes
+557:@HPA Protein Tissue/skin - Langerhans
+558:@HPA Protein Tissue/skin - epidermal cells
+559:@HPA Protein Tissue/skin - fibroblasts
+560:@HPA Protein Tissue/skin - keratinocytes
+561:@HPA Protein Tissue/skin - melanocytes
+562:@HPA Protein Tissue/small intestine - glandular cells
+563:@HPA Protein Tissue/smooth muscle - smooth muscle cells
+564:@HPA Protein Tissue/soft tissue - chondrocytes
+565:@HPA Protein Tissue/soft tissue - fibroblasts
+566:@HPA Protein Tissue/spleen - cells in red pulp
+567:@HPA Protein Tissue/spleen - cells in white pulp
+568:@HPA Protein Tissue/stomach - glandular cells
+569:@HPA Protein Tissue/testis - Leydig cells
+570:@HPA Protein Tissue/testis - cells in seminiferous ducts
+571:@HPA Protein Tissue/thyroid gland - glandular cells
+572:@HPA Protein Tissue/tonsil - germinal center cells
+573:@HPA Protein Tissue/tonsil - non-germinal center cells
+574:@HPA Protein Tissue/tonsil - squamous epithelial cells
+575:@HPA Protein Tissue/urinary bladder - urothelial cells
+576:@HPA Protein Tissue/vagina - squamous epithelial cells
+577:@IDG Disease/Ulcerative colitis
+578:@Compartment GO Term/Golgi apparatus
+579:@DTO Protein Class (1)/Other 7TM proteins
+580:@DTO Protein Class (2)/LU7TM family
+581:@Data Source/IMPC
+582:@GO Component/Golgi apparatus
+583:@GO Component/clathrin-coated vesicle
+584:@GO Component/early endosome
+585:@GO Process/clathrin-mediated endocytosis
+586:@Grant Application/1R01AR062991-01A1
+587:@Grant Application/5R01AR062991-02
+588:@Grant Application/5R01AR062991-03
+589:@Grant Funding IC/NIAMS
+590:@IMPC Term/complete preweaning lethality
+591:@IMPC Term/decreased circulating creatinine level
+592:@IMPC Term/decreased mean platelet volume
+593:@IMPC Term/increased mean platelet volume
+594:@Jensen-KB Tissue/Lymph node
+595:@Jensen-KB Tissue/Small intestine
+596:@MGI Term/hematopoietic system phenotype
+597:@TechDev Grant/1U01MH105035-01
+598:@TechDev PI/Steve Finkbeiner
+599:@Compartment Evidence/MGI IDA
+600:@DTO Protein Class (2)/Endothelin receptor
+601:@GO Component/receptor complex
+602:@GO Function/G-protein coupled peptide receptor activity
+603:@GO Function/peptide binding
+604:@GO Function/prosaposin receptor activity
+605:@GO Process/adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway
+606:@GO Process/negative regulation of astrocyte differentiation
+607:@GO Process/negative regulation of hydrogen peroxide-induced cell death
+608:@GO Process/negative regulation of neuron differentiation
+609:@GO Process/negative regulation of smoothened signaling pathway
+610:@GO Process/positive regulation of MAPK cascade
+611:@GO Process/positive regulation of cerebellar granule cell precursor proliferation
+612:@Grant Application/1R01NS088413-01
+613:@Grant Application/1R21NS081461-01
+614:@Grant Application/1R21NS091986-01
+615:@Grant Application/5R01NS088413-02
+616:@Grant Application/5R21NS081461-02
+617:@Grant Funding IC/NINDS
+618:@MGI Term/cellular phenotype
+619:@MGI Term/vision-eye phenotype
+620:@DTO Protein Class (2)/TKL group
+621:@DTO Protein Class (3)/LISK family
+622:@GO Function/metal ion binding
+623:@GO Function/protein serine-threonine-tyrosine kinase activity
+624:@GO Function/protein tyrosine kinase activity
+625:@GO Process/actin cytoskeleton organization
+626:@GO Process/focal adhesion assembly
+627:@GO Process/spermatogenesis
+628:@HPA Protein Tissue/cerebellum - cells in granular layer
+629:@HPA Protein Tissue/cerebellum - cells in molecular layer
+630:@HPA Protein Tissue/lateral ventricle - neuronal cells
+631:@HPA Protein Tissue/ovary - follicle cells
+632:@IDG Disease/Alcohol dependence
+633:@DTO Protein Class (3)/P2Y receptor
+634:@GO Function/G-protein coupled purinergic nucleotide receptor activity
+635:@HPA Protein Tissue/liver - hepatocytes
+636:@Jensen-KB Tissue/Blood
+637:@Compartment GO Term/Extracellular exosome
+638:@Compartment GO Term/Extracellular membrane-bounded organelle
+639:@Compartment GO Term/Extracellular organelle
+640:@Compartment GO Term/Extracellular region
+641:@Compartment GO Term/Extracellular region part
+642:@Compartment GO Term/Extracellular vesicle
+643:@GO Component/cytoplasmic vesicle membrane
+644:@GO Component/extracellular exosome
+645:@GO Component/vesicle
+646:@Jensen-KB Tissue/Ovary
+647:@Jensen-KB Tissue/Pancreas
+648:@Jensen-KB Tissue/Placenta
+649:@Jensen-KB Tissue/Pronephros
+650:@MGI Term/immune system phenotype
+651:@GO Process/glucose homeostasis
+652:@GO Process/negative regulation of insulin receptor signaling pathway
+653:@GO Process/positive regulation of multicellular organism growth
+654:@DTO Protein Class (2)/Angiotensin receptor
+655:@Jensen-KB Tissue/Thyroid gland
+656:@Compartment GO Term/GO:0031975
+657:@Compartment GO Term/Nuclear envelope
+658:@Compartment GO Term/Nuclear membrane
+659:@Compartment GO Term/Organelle envelope
+660:@GO Component/nuclear membrane
+661:@Grant Application/1R21EY023061-01
+662:@Grant Application/3R01CA091792-09S1
+663:@Grant Application/5R01CA091792-10
+664:@Grant Application/5R21EY023061-02
+665:@Grant Funding IC/NEI
+666:@IDG Disease/Ileitis
+667:@IDG Disease/Intestinal schistosomiasis
+668:@Jensen-KB Tissue/Uterus
+669:@Compartment Evidence/HGNC ISS
+670:@DTO Protein Class (2)/Atypical group
+671:@DTO Protein Class (3)/Alpha family
+672:@GO Process/heart development
+673:@GWAS Trait/Adverse response to chemotherapy (neutropenia-leucopenia) (gemcitabine)
+674:@Grant Activity/P20
+675:@Grant Application/1P20NS076916-01
+676:@PANTHER Protein Class (0)/hydrolase
+677:@PANTHER Protein Class (1)/phosphatase
+678:@PANTHER Protein Class (2)/protein phosphatase
+679:@DTO Protein Class (1)/Transmembrane channel (TMC) family
+680:@GO Process/ion transport
+681:@GWAS Trait/Blood metabolite ratios
+682:@IDG Disease/Epidermodysplasia verruciformis
+683:@IDG Disease/Gas gangrene
+684:@DTO Protein Class (2)/Melanin-concentrating hormone receptor
+685:@HPA Protein Tissue/parathyroid gland - glandular cells
+686:@DTO Protein Class (2)/Proteinase-activated receptor
+687:@GO Component/apical plasma membrane
+688:@GO Component/extracellular region
+689:@GO Function/phosphatidylinositol phospholipase C activity
+690:@GO Function/thrombin receptor activity
+691:@GO Process/blood coagulation
+692:@GO Process/platelet activation
+693:@GO Process/response to wounding
+694:@Grant Activity/F30
+695:@Grant Activity/F31
+696:@Grant Activity/F32
+697:@Grant Activity/K01
+698:@Grant Activity/K08
+699:@Grant Activity/P41
+700:@Grant Activity/R37
+701:@Grant Activity/R56
+702:@Grant Activity/ZIA
+703:@Grant Application/1F30AG039896-01
+704:@Grant Application/1F30DK093197-01
+705:@Grant Application/1F30NS066604-01A1
+706:@Grant Application/1F31DK092098-01
+707:@Grant Application/1F31GM111006-01
+708:@Grant Application/1F32DK095503-01
+709:@Grant Application/1F32GM106516-01
+710:@Grant Application/1K01DK085194-01
+711:@Grant Application/1K08DK094966-01
+712:@Grant Application/1R01CA132898-01A1
+713:@Grant Application/1R01DC013773-01
+714:@Grant Application/1R01DK087956-01
+715:@Grant Application/1R01DK093507-01A1
+716:@Grant Application/1R01DK104287-01
+717:@Grant Application/1R01GM098492-01
+718:@Grant Application/1R01HL113498-01
+719:@Grant Application/1R01NS065218-01A2
+720:@Grant Application/1R01NS075930-01A1
+721:@Grant Application/1R01NS089578-01A1
+722:@Grant Application/1R01NS095734-01
+723:@Grant Application/1ZIABC010006-18
+724:@Grant Application/2R01AR049446-06
+725:@Grant Application/2R01DK069605-06
+726:@Grant Application/2R01EY018005-06A1
+727:@Grant Application/2R01GM047857-20A1
+728:@Grant Application/2R01GM068032-10A1
+729:@Grant Application/2R01GM068744-07A1
+730:@Grant Application/2R01GM070902-09
+731:@Grant Application/2R01GM078341-06
+732:@Grant Application/2R01HL049413-15A1
+733:@Grant Application/2R01NS063228-04A1
+734:@Grant Application/2R56AI065902-10A1
+735:@Grant Application/2R56NS063228-04
+736:@Grant Application/3R01AR049446-09S2
+737:@Grant Application/3R01DK087956-03S1
+738:@Grant Application/3R01GM047857-22S1
+739:@Grant Application/3R01GM047857-22S2
+740:@Grant Application/3R01GM078341-07S1
+741:@Grant Application/3R01GM085290-02S1
+742:@Grant Application/3R01HL113498-03S1
+743:@Grant Application/4R37AR027883-35
+744:@Grant Application/5F30AG039896-02
+745:@Grant Application/5F30AG039896-03
+746:@Grant Application/5F30AG039896-04
+747:@Grant Application/5F30DK093197-02
+748:@Grant Application/5F30DK093197-03
+749:@Grant Application/5F30DK093197-04
+750:@Grant Application/5F30NS066604-02
+751:@Grant Application/5F30NS066604-03
+752:@Grant Application/5F31DK092098-02
+753:@Grant Application/5F31DK092098-03
+754:@Grant Application/5F31GM111006-02
+755:@Grant Application/5F32CA139950-02
+756:@Grant Application/5F32DK095503-02
+757:@Grant Application/5F32DK095503-03
+758:@Grant Application/5K01DK085194-03
+759:@Grant Application/5K01DK085194-04
+760:@Grant Application/5K01DK085194-05
+761:@Grant Application/5K01DK085194-06
+762:@Grant Application/5K08DK094966-02
+763:@Grant Application/5K08DK094966-03
+764:@Grant Application/5K08DK094966-04
+765:@Grant Application/5P41RR007707-18
+766:@Grant Application/5R01AR049446-07
+767:@Grant Application/5R01AR049446-08
+768:@Grant Application/5R01AR049446-09
+769:@Grant Application/5R01AR049446-10
+770:@Grant Application/5R01CA132898-02
+771:@Grant Application/5R01CA132898-03
+772:@Grant Application/5R01CA132898-05
+773:@Grant Application/5R01DC013773-02
+774:@Grant Application/5R01DK069605-07
+775:@Grant Application/5R01DK069605-08
+776:@Grant Application/5R01DK069605-09
+777:@Grant Application/5R01DK087956-02
+778:@Grant Application/5R01DK087956-03
+779:@Grant Application/5R01DK087956-04
+780:@Grant Application/5R01DK087956-05
+781:@Grant Application/5R01DK093507-02
+782:@Grant Application/5R01DK093507-03
+783:@Grant Application/5R01DK093507-04
+784:@Grant Application/5R01DK104287-02
+785:@Grant Application/5R01GM047857-21
+786:@Grant Application/5R01GM047857-22
+787:@Grant Application/5R01GM068032-07
+788:@Grant Application/5R01GM068032-08
+789:@Grant Application/5R01GM068032-09
+790:@Grant Application/5R01GM068032-11
+791:@Grant Application/5R01GM068744-08
+792:@Grant Application/5R01GM068744-09
+793:@Grant Application/5R01GM068744-10
+794:@Grant Application/5R01GM070902-07
+795:@Grant Application/5R01GM070902-08
+796:@Grant Application/5R01GM070902-10
+797:@Grant Application/5R01GM070902-11
+798:@Grant Application/5R01GM070902-12
+799:@Grant Application/5R01GM078341-07
+800:@Grant Application/5R01GM078341-08
+801:@Grant Application/5R01GM078341-09
+802:@Grant Application/5R01GM085290-02
+803:@Grant Application/5R01GM085290-03
+804:@Grant Application/5R01GM085290-04
+805:@Grant Application/5R01GM085290-05
+806:@Grant Application/5R01GM098492-02
+807:@Grant Application/5R01GM098492-03
+808:@Grant Application/5R01GM098492-04
+809:@Grant Application/5R01HL049413-16
+810:@Grant Application/5R01HL049413-17
+811:@Grant Application/5R01HL049413-18
+812:@Grant Application/5R01HL049413-19
+813:@Grant Application/5R01HL059373-11
+814:@Grant Application/5R01HL059373-12
+815:@Grant Application/5R01HL063290-12
+816:@Grant Application/5R01HL063290-13
+817:@Grant Application/5R01HL063290-15
+818:@Grant Application/5R01HL113498-02
+819:@Grant Application/5R01HL113498-03
+820:@Grant Application/5R01HL113498-04
+821:@Grant Application/5R01NS051778-05
+822:@Grant Application/5R01NS063228-05
+823:@Grant Application/5R01NS065218-02
+824:@Grant Application/5R01NS065218-03
+825:@Grant Application/5R01NS065218-04
+826:@Grant Application/5R01NS065218-05
+827:@Grant Application/5R01NS075930-02
+828:@Grant Application/5R01NS075930-03
+829:@Grant Application/5R01NS075930-04
+830:@Grant Application/5R37AR027883-31
+831:@Grant Application/5R37AR027883-32
+832:@Grant Application/5R37AR027883-33
+833:@Grant Application/5R37AR027883-34
+834:@Grant Application/5R37AR027883-36
+835:@Grant Application/7K01DK085194-02
+836:@Grant Application/7R01CA132898-04
+837:@Grant Application/7R01EY018005-07
+838:@Grant Application/7R01GM068032-12
+839:@Grant Application/7R01HL063290-14
+840:@Grant Funding IC/NCRR
+841:@Grant Funding IC/NHLBI
+842:@Grant Funding IC/NIA
+843:@Grant Funding IC/NIDDK
+844:@Grant Funding IC/OD
+845:@Jensen-KB Tissue/Retina
+846:@Jensen-KB Tissue/Thymus
+847:@Compartment GO Term/Actin cytoskeleton
+848:@Compartment GO Term/Actomyosin
+849:@Compartment GO Term/Cytoskeletal part
+850:@Compartment GO Term/Cytoskeleton
+851:@Compartment GO Term/cell-cell junction
+852:@GO Component/actomyosin
+853:@GO Component/cell-cell junction
+854:@GO Component/cytoskeleton
+855:@GO Process/actomyosin structure organization
+856:@GO Process/cell migration
+857:@GO Process/cytoskeleton organization
+858:@GO Process/establishment or maintenance of cell polarity
+859:@GO Process/signal transduction
+860:@GWAS Trait/Large B-cell lymphoma
+861:@IDG Disease/non-Hodgkin lymphoma
+862:@GO Component/membrane
+863:@GO Process/positive regulation of canonical Wnt signaling pathway
+864:@GO Process/sphingolipid biosynthetic process
+865:@GO Process/sphingolipid metabolic process
+866:@IDG Disease/Follicular adenoma
+867:@IDG Disease/Gilles de la Tourette syndrome
+868:@IDG Ligand/CHEMBL2203552
+869:@IDG Ligand/CHEMBL2203554
+870:@IDG Ligand/CHEMBL2203556
+871:@IDG Ligand/CHEMBL2203559
+872:@IDG Ligand/CHEMBL2203560
+873:@IDG Ligand/CHEMBL2203561
+874:@IDG Ligand/CHEMBL2203562
+875:@IDG Ligand/CHEMBL2203563
+876:@IDG Ligand/CHEMBL2203564
+877:@IDG Ligand/CHEMBL2203565
+878:@Jensen-KB Tissue/Colon
+879:@Ligand Activity/IC50
+880:@GO Process/protein localization to plasma membrane
+881:@GO Process/regulation of G-protein coupled receptor protein signaling pathway
+882:@GWAS Trait/Ejection fraction in Tripanosoma cruzi seropositivity
+883:@GWAS Trait/IgG glycosylation
+884:@GWAS Trait/QRS duration in Tripanosoma cruzi seropositivity
+885:@Grant Application/1R01MH105482-01A1
+886:@Grant Funding IC/NIMH
+887:@IDG Disease/Night blindness
+888:@IDG Disease/Ocular hypertension
+889:@IDG Disease/Smallpox
+890:@IMPC Term/increased caudal vertebrae number
+891:@Compartment Evidence/GDB TAS
+892:@DTO Protein Class (1)/Adhesion class
+893:@Jensen-KB Tissue/Tongue
+894:@PANTHER Protein Class (0)/defense/immunity protein
+895:@PANTHER Protein Class (1)/antibacterial response protein
+896:@Jensen-KB Tissue/Spleen
+897:@IDG Disease/Chromosome 13q14 deletion syndrome
+898:@GO Process/membrane depolarization
+899:@IDG Disease/Rheumatoid arthritis
+900:@Jensen-KB Tissue/Caudate nucleus
+901:@HPA Protein Tissue/soft tissue - peripheral nerve
+902:@IDG Disease/Lung cancer
+903:@Compartment GO Term/Dendritic branch
+904:@DTO Protein Class (3)/DYRK family
+905:@DTO Protein Class (4)/Dyrk2 subfamily
+906:@GO Component/intracellular membrane-bounded organelle
+907:@IDG Disease/Down syndrome
+908:@Jensen-KB Tissue/Kidney
+909:@Compartment GO Term/Cell projection
+910:@Compartment GO Term/Intraciliary transport particle
+911:@Compartment GO Term/Neuron part
+912:@Compartment GO Term/Neuron projection
+913:@GO Component/neuron projection
+914:@GO Function/neuropeptide binding
+915:@GO Process/G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger
+916:@GO Process/antral ovarian follicle growth
+917:@GO Process/negative regulation of ovulation
+918:@GO Process/neuropeptide signaling pathway
+919:@GO Process/preantral ovarian follicle growth
+920:@MGI Term/endocrine-exocrine gland phenotype
+921:@MGI Term/integument phenotype
+922:@MGI Term/reproductive system phenotype
+923:@DTO Protein Class (2)/Other group
+924:@DTO Protein Class (3)/NKF4 family
+925:@Compartment GO Term/Axon
+926:@Compartment GO Term/Axon part
+927:@Compartment GO Term/Axon terminus
+928:@Compartment GO Term/Cell projection part
+929:@Compartment GO Term/Coated pit
+930:@Compartment GO Term/Coated vesicle
+931:@Compartment GO Term/Extrinsic component of membrane
+932:@Compartment GO Term/Extrinsic component of plasma membrane
+933:@Compartment GO Term/Neuron projection terminus
+934:@Compartment GO Term/Presynapse
+935:@Compartment GO Term/Terminal bouton
+936:@Compartment GO Term/clathrin-coated vesicle
+937:@DTO Protein Class (3)/NAK family
+938:@GO Component/coated pit
+939:@GO Component/extrinsic component of plasma membrane
+940:@GO Component/terminal bouton
+941:@GO Function/AP-2 adaptor complex binding
+942:@GO Function/Notch binding
+943:@GO Process/positive regulation of Notch signaling pathway
+944:@GO Process/protein autophosphorylation
+945:@GO Process/protein stabilization
+946:@GO Process/regulation of clathrin-mediated endocytosis
+947:@GO Process/regulation of protein localization
+948:@GWAS Trait/Metabolite levels (Dihydroxy docosatrienoic acid)
+949:@GWAS Trait/Parkinson's disease (age of onset)
+950:@GWAS Trait/Serum thyroid-stimulating hormone levels
+951:@Grant Activity/U19
+952:@Grant Application/1U19AI109662-01
+953:@Grant Application/5R01GM085029-03
+954:@Grant Application/5R01GM085029-04
+955:@Grant Application/5R01GM085029-05
+956:@Grant Application/5U19AI109662-02
+957:@IDG Disease/Gastrointestinal Stromal Tumor
+958:@IDG Disease/Pancreatic Neuroendocrine Tumor
+959:@IDG Disease/Renal Cell Carcinoma
+960:@IDG Ligand/CHEMBL388978
+961:@IDG Ligand/sunitinib
+962:@Jensen-KB Tissue/T-lymphocyte
+963:@Compartment GO Term/Mitochondrial matrix
+964:@Compartment GO Term/Mitochondrial part
+965:@Compartment GO Term/Mitochondrion
+966:@DTO Protein Class (3)/PDHK family
+967:@Data Source/JensenLab Knowledge UniProtKB-KW
+968:@Data Source/UniProt Disease
+969:@GO Component/mitochondrial matrix
+970:@GO Component/mitochondrion
+971:@GO Function/pyruvate dehydrogenase (acetyl-transferring) kinase activity
+972:@GO Process/cellular metabolic process
+973:@GO Process/cellular response to fatty acid
+974:@GO Process/cellular response to glucose stimulus
+975:@GO Process/glucose metabolic process
+976:@GO Process/hypoxia-inducible factor-1alpha signaling pathway
+977:@GO Process/peroxisome proliferator activated receptor signaling pathway
+978:@GO Process/pyruvate metabolic process
+979:@GO Process/regulation of acetyl-CoA biosynthetic process from pyruvate
+980:@GO Process/regulation of glucose metabolic process
+981:@GO Process/regulation of reactive oxygen species metabolic process
+982:@Grant Application/3R01DK062306-06A2S1
+983:@Grant Application/5R01DK062306-07
+984:@Grant Application/5R01DK062306-08
+985:@Grant Application/5R01DK062306-09
+986:@Grant Application/5R01DK062306-10
+987:@Grant Application/5R01GM051262-17
+988:@Grant Application/5R01GM051262-18
+989:@Grant Application/5R01GM051262-19
+990:@IDG Disease/Charcot-Marie-Tooth disease
+991:@IDG Disease/Charcot-Marie-Tooth disease, X-linked dominant, 6
+992:@IDG Disease/Craniosynostosis
+993:@IDG Disease/Neurodegenerative disease
+994:@IDG Disease/Neuropathy
+995:@IDG Disease/Periventricular nodular heterotopia
+996:@IDG Disease/Neuroendocrine carcinoma
+997:@Data Source/JensenLab Knowledge GHR
+998:@GO Function/identical protein binding
+999:@DTO Protein Class (3)/ABC1 family
+1000:@DTO Protein Class (4)/ABC1-B subfamily
+1001:@Grant Application/1R01GM112057-01
+1002:@Grant Application/5R01GM112057-02
+1003:@PANTHER Protein Class (0)/chaperone
+1004:@DTO Protein Class (2)/CAMK group
+1005:@DTO Protein Class (3)/TSSK family
+1006:@GO Process/cell differentiation
+1007:@GO Process/multicellular organismal development
+1008:@DTO Protein Class (3)/NRBP family
+1009:@GO Process/negative regulation of macroautophagy
+1010:@GO Process/negative regulation of neuron apoptotic process
+1011:@GO Process/neuron differentiation
+1012:@IDG Disease/Childhood medulloblastoma
+1013:@IDG Disease/Coloboma
+1014:@GO Function/gonadotropin-releasing hormone receptor activity
+1015:@GO Process/negative regulation of neuron migration
+1016:@Grant Application/1R03HD078645-01
+1017:@Grant Application/5R03HD078645-02
+1018:@Grant Funding IC/NICHD
+1019:@Grant Application/1ZIAAA000284-26
+1020:@Grant Funding IC/NIAAA
+1021:@IDG Disease/Bullous keratopathy
+1022:@Compartment GO Term/Chloride channel complex
+1023:@DTO Protein Class (1)/Anion channel tweety (tweety) family
+1024:@GO Component/chloride channel complex
+1025:@GO Function/chloride channel activity
+1026:@GO Function/intracellular calcium activated chloride channel activity
+1027:@GO Process/chloride transmembrane transport
+1028:@GO Process/chloride transport
+1029:@GO Process/transmembrane transport
+1030:@Grant Application/5R01AI080582-02
+1031:@Grant Application/5R01AI080582-03
+1032:@Grant Application/5R01AI080582-04
+1033:@PANTHER Protein Class (2)/anion channel
+1034:@DTO Protein Class (3)/SGK495 family
+1035:@GO Process/glycogen metabolic process
+1036:@GO Process/lung alveolus development
+1037:@GO Process/lung morphogenesis
+1038:@GO Process/multicellular organism growth
+1039:@GO Process/negative regulation of apoptotic process
+1040:@GO Process/regulation of MAPK cascade
+1041:@GO Process/regulation of gene expression
+1042:@GO Process/respiratory system process
+1043:@Jensen-KB Tissue/Melanoma cell line
+1044:@MGI Term/respiratory system phenotype
+1045:@DTO Protein Class (3)/CDKL family
+1046:@Compartment Evidence/GDB IC
+1047:@GO Function/trace-amine receptor activity
+1048:@Compartment Evidence/GOC ISS
+1049:@DTO Protein Class (3)/MLK family
+1050:@GO Component/intracellular
+1051:@GO Function/MAP kinase kinase kinase activity
+1052:@GO Function/protein homodimerization activity
+1053:@GO Process/activation of JUN kinase activity
+1054:@Grant Activity/R15
+1055:@Grant Application/1R15GM102831-01
+1056:@Grant Application/2R01CA082683-11A2
+1057:@Grant Application/5R01CA082683-12
+1058:@Grant Application/5R01CA082683-13
+1059:@Grant Application/5R01CA082683-14
+1060:@Grant Application/5R01CA082683-15
+1061:@GO Process/G-protein coupled purinergic nucleotide receptor signaling pathway
+1062:@Jensen-KB Tissue/Monocyte
+1063:@GWAS Trait/Stearic acid (18:0) plasma levels
+1064:@Jensen-KB Tissue/Hippocampus
+1065:@Jensen-KB Tissue/Hypothalamus
+1066:@Compartment GO Term/Peroxisomal importomer complex
+1067:@Compartment GO Term/Pex17p-Pex14p docking complex
+1068:@DTO Protein Class (1)/Class B secretin like
+1069:@IDG Disease/Schnyder corneal dystrophy
+1070:@Jensen-KB Tissue/Mammary gland
+1071:@Jensen-KB Tissue/Prostate gland epithelium
+1072:@IDG Disease/obsessive-compulsive disorder
